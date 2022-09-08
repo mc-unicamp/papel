@@ -1,0 +1,5 @@
+---
+question: Quando e onde será?
+answer: A experiência acontecerá no Ginásio Multidisciplinar da Unicamp, no dia 15/10/2022. Ele será parte de um evento maior que estamos promovendo chamado Festival Ciência de Papel.
+layout: default
+---

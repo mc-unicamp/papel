@@ -1,0 +1,5 @@
+---
+question: O que é o Museu de Papel?
+answer: Uma experiência coletiva, em que participa a comunidade interna (professores, funcionários e alunos) e externa (famílias, escolas e organizações) na construção de um museu todo feito de papel.
+layout: default
+---

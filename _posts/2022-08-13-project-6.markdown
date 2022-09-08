@@ -1,0 +1,4 @@
+---
+question: Que tipos de coisa espera-se montar para a exposição?
+answer: "Temos ideias iniciais, mas você pode propor coisas novas. Podem ser montados artefatos que: representam objetos de estudo da ciência (flores de papel para estudar polinização, vírus de papel, cérebro de papel); replicam instrumentos e equipamentos científicos (telescópio espacial); capturem fenômenos do mundo (pêndulo, relógio solar); representam como a ciência dá suporte a criações humanas (iluminação em arquitetura)."
+---
