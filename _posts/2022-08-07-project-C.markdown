@@ -1,4 +1,5 @@
 ---
 question: Serei remunerado pela minha participação?
 answer: A participação é voluntária e não há remuneração prevista.
+categories: ["comunidade", "unicamp"]
 ---

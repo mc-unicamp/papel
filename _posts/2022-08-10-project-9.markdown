@@ -1,4 +1,5 @@
 ---
 question: Eu preciso inventar as coisas que vou construir?
 answer: Os objetos devem ser construídos por você, seu grupo, ou pelas pessoas que você orientar no dia do evento. Incentivamos a criação de coisas, mesmo que inspiradas em outros trabalhos. Entretanto, podem ser usados moldes compartilhados por terceiros na internet, somente se o autor autorizar explicitamente a reprodução (neste caso, a autoria deve ser mencionada na exposição). Não farão parte da exposição objetos comprados prontos, ou comprados para montar.
+categories: ["comunidade", "unicamp"]
 ---

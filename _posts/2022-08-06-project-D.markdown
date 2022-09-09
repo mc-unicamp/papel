@@ -1,4 +1,5 @@
 ---
 question: A participação é individual ou em grupo?
 answer: "Ambas as possibilidades são possíveis. São aceitos grupos de qualquer configuração: um grupo de amigos; colegas de classe de uma escola; um professor e seus alunos; escoteiros; um grupo de pesquisas; uma família; um grupo de origami; membros de uma associação cultural."
+categories: ["comunidade", "unicamp"]
 ---

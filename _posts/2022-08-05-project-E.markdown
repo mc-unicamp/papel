@@ -1,4 +1,5 @@
 ---
 question: Haverá concurso ou premiação?
 answer: Não haverá. O intuito de não promover concurso ou oferecer prêmios é que esta modalidade se configure mais pela experiência do compartilhamento.
+categories: ["comunidade", "unicamp"]
 ---

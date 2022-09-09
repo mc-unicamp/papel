@@ -1,4 +1,5 @@
 ---
 question: Qual o horário e tempo da exposição e oficinas?
-answer: O evento acontecerá durante o dia inteiro de 9h às 17h. Você pode participar o dia inteiro ou em uma faixa de horário que você proponha, conforme a sua disponibilidade. Se você propuser uma oficina, você definirá quanto tempo leva, mas ela não deve passar de 1 hora, para que os participantes possam fazer outras experiências.
+answer: O evento acontecerá durante o dia inteiro de 9h às 17h. Mais adiante publicaremos detalhes de horários reservados à exposição.
+categories: ["comunidade"]
 ---

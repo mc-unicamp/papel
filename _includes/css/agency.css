@@ -278,6 +278,10 @@ header {
     -o-background-size: cover;
 }
 
+.comunidade-unicamp {
+  background-image: url('{{ site.baseurl }}/img/header-unicamp.jpg');
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;

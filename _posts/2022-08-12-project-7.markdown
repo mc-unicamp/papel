@@ -1,4 +1,5 @@
 ---
 question: Preciso ser mestre em papel?
 answer: Não. O Museu é um espaço experimental. Estamos em busca de criatividade. Se você tem vontade de participar, você deve se candidatar, mesmo que não tenha experiência nem habilidade com papel. Teremos espaços para trocar ideias e lhe ajudaremos no que for possível.
+categories: ["comunidade", "unicamp"]
 ---

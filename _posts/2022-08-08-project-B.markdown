@@ -1,4 +1,5 @@
 ---
 question: O que preciso fazer para participar?
-answer: "Você deve se inscrever no link: ... O Museu providenciará a infraestrutura para que você apresente a sua proposta ou execute a sua oficina."
+answer: "Você deve se inscrever no link: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfVullhYsrrhKoBLN4bfML5eB7_wRyyyjxbZQC4Z2VDBxUQmQ/viewform?usp=sf_link\" target=\"_blank\">incrições</a>. O Museu providenciará a infraestrutura para que você apresente a sua proposta ou execute a sua oficina."
+categories: ["comunidade"]
 ---
