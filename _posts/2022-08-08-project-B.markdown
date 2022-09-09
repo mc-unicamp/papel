@@ -1,4 +1,4 @@
 ---
 question: O que preciso fazer para participar?
-answer: "Você deve se inscrever no link: ... Se precisar de suporte para a aquisição de material, você pode indicar na sua inscrição e o Museu se empenhará em consegui-lo. O Museu providenciará a infraestrutura para que você apresente a sua proposta ou execute a sua oficina."
+answer: "Você deve se inscrever no link: ... O Museu providenciará a infraestrutura para que você apresente a sua proposta ou execute a sua oficina."
 ---
