@@ -234,6 +234,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-default {
+  background-color: transparent;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
