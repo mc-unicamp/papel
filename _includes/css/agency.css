@@ -282,10 +282,25 @@ header {
     -o-background-size: cover;
 }
 
-.comunidade-unicamp {
+.header-comunidade-unicamp {
   background-image: url('{{ site.baseurl }}/img/header-unicamp.jpg');
 }
 
+.header-making-of {
+  background-image: url('{{ site.baseurl }}/img/header-making-of.png');
+}
+
+.lead-making-of {
+  color: violet;
+  text-shadow: 4px 0 purple, -4px 0 purple, 0 4px purple, 0 -4px purple,
+             2px 2px purple, -2px -2px purple, 2px -2px purple, -2px 2px purple;
+}
+
+.heading-making-of {
+  color: violet;
+  text-shadow: 8px 0 purple, -8px 0 purple, 0 8px purple, 0 -8px purple,
+             4px 4px purple, -4px -4px purple, 4px -4px purple, -4px 4px purple;
+}
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
